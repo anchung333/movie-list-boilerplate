@@ -1,0 +1,23 @@
+.movie {
+  padding: 10px;
+}
+
+.returnall {
+  margin: 0px 0px 0px 6px;
+}
+
+.searchbutton, .addbutton {
+  margin: 0px 0px 10px 0px;
+  border-top-left-radius: 0%;
+  border-bottom-left-radius: 0%;
+  border-top-right-radius: 20%;
+  border-bottom-right-radius: 20%;
+}
+
+.watchedbutton {
+  float: right;
+}
+
+.movie {
+  width: 300px
+}
